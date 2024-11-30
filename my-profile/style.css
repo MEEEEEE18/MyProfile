@@ -1,5 +1,8 @@
 #me{
     text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    font-weight: bolder;
     
   }
   .paragraph{
@@ -41,10 +44,18 @@
 
   .skills{
     padding: 100px;
+    text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    font-weight: bolder;
   }
 
   #writing{
     padding: 100px;
+    text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    font-weight: bolder;
   }
 
   #class{
@@ -62,6 +73,9 @@
 
   #myskills{
     text-align: center;
+    font-size:larger;
+    font-family: monospace;
+    font-weight: bolder;
   }
 
   #picture{
@@ -70,3 +84,14 @@
     font-family: monospace;
     font-weight: bolder;
   }
+#hobbies{
+  text-align: center;
+  font-size: medium;
+  font-family:cursive
+}
+
+#hobbie{
+  text-align: center;
+  font-size: medium;
+  font-family:cursive
+}
