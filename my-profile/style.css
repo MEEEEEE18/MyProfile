@@ -6,6 +6,9 @@
       text-align: center;
       padding-left: 200px;
       padding-top: 50px;
+      font-size: medium;
+      font-family: monospace;
+      font-weight: bolder;
   }
 
   .image{
@@ -59,4 +62,11 @@
 
   #myskills{
     text-align: center;
+  }
+
+  #picture{
+    text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    font-weight: bolder;
   }
